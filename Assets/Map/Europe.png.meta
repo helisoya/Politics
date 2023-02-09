@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 0b83afaef9e26a04d8fa0596e7fff584
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1194287481114815218
+    second: Europe_0
+  - first:
+      213: 3969681267252458337
+    second: Europe_4
+  - first:
+      213: 3241945349935046247
+    second: Europe_9
+  - first:
+      213: -6634954812771059914
+    second: Europe_11
+  - first:
+      213: 2820521761663621926
+    second: Europe_12
+  - first:
+      213: 5059986424226226656
+    second: Europe_13
+  - first:
+      213: 692320206625603694
+    second: Europe_14
+  - first:
+      213: -5106059075413369914
+    second: Europe_15
+  - first:
+      213: 8009668338937877133
+    second: Europe_16
+  - first:
+      213: -7955025427771684184
+    second: Europe_17
+  - first:
+      213: -1427068026543205052
+    second: Europe_18
+  - first:
+      213: -2271902873624491733
+    second: Europe_19
+  - first:
+      213: -958278481867484712
+    second: Europe_20
+  - first:
+      213: 3128224706742362482
+    second: Europe_21
+  - first:
+      213: -8471836105929905662
+    second: Europe_22
+  - first:
+      213: 1465024223682726494
+    second: Europe_23
+  - first:
+      213: 1625931879576727194
+    second: Europe_24
+  - first:
+      213: 2595306553512083339
+    second: Europe_26
+  - first:
+      213: 9195069906028980090
+    second: Europe_27
+  - first:
+      213: -735800163549387414
+    second: Europe_28
+  - first:
+      213: 1018479260082366211
+    second: Europe_29
+  - first:
+      213: -4747642614128529144
+    second: Europe_30
+  - first:
+      213: -1949583421689877962
+    second: Europe_31
+  - first:
+      213: 3092175042794798229
+    second: Europe_32
+  - first:
+      213: -1857262859135509005
+    second: Europe_33
+  - first:
+      213: -8132165166281098392
+    second: Europe_34
+  - first:
+      213: 8616610694976570702
+    second: Europe_35
+  - first:
+      213: -7402339813655937550
+    second: Europe_36
+  - first:
+      213: -837312907419459646
+    second: Europe_37
+  - first:
+      213: -8860309708463121039
+    second: Europe_38
+  - first:
+      213: 2413929344206022221
+    second: Europe_39
+  - first:
+      213: 7876033006348123932
+    second: Europe_40
+  - first:
+      213: 5346774499415079168
+    second: Europe_41
+  - first:
+      213: 5086994353155537063
+    second: Europe_42
+  - first:
+      213: 2197490433342408755
+    second: Europe_43
+  - first:
+      213: 8706240400700962184
+    second: Europe_44
+  - first:
+      213: -1947478818668348411
+    second: Europe_45
+  - first:
+      213: -3395143133462096110
+    second: Europe_47
+  - first:
+      213: 2780853018208750254
+    second: Europe_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Europe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2461
+        width: 1988
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0594701dd90d6fe0800000000000000
+      internalID: -1194287481114815218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_4
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 2611
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163fa1e8414271730800000000000000
+      internalID: 3969681267252458337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_9
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1440
+        width: 234
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e9b148e14bdfc20800000000000000
+      internalID: 3241945349935046247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1278
+        width: 102
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637330450c7ebe3a0800000000000000
+      internalID: -6634954812771059914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_12
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1279
+        width: 89
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b18353991842720800000000000000
+      internalID: 2820521761663621926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_13
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1138
+        width: 121
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1ad4808dea83640800000000000000
+      internalID: 5059986424226226656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_14
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1179
+        width: 100
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e608eb25f8d9b9900800000000000000
+      internalID: 692320206625603694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1141
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb93dfe252a329b0800000000000000
+      internalID: -5106059075413369914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_16
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1177
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82d51fcaee082f60800000000000000
+      internalID: 8009668338937877133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_17
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1166
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa087e55821a9190800000000000000
+      internalID: -7955025427771684184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_18
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1060
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4451397d039023ce0800000000000000
+      internalID: -1427068026543205052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_19
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 970
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b294c6d9f549870e0800000000000000
+      internalID: -2271902873624491733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_20
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1011
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d153644cc283b2f0800000000000000
+      internalID: -958278481867484712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_21
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 997
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271aaf6fbcfa96b20800000000000000
+      internalID: 3128224706742362482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 858
+        width: 128
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a28b682fdfd6a80800000000000000
+      internalID: -8471836105929905662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_23
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 945
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a83f7f4cfc45410800000000000000
+      internalID: 1465024223682726494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_24
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 913
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e672f0e68709610800000000000000
+      internalID: 1625931879576727194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_26
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 819
+        width: 83
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fb4555f81640420800000000000000
+      internalID: 2595306553512083339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_27
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 862
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77edb9ac537b9f70800000000000000
+      internalID: 9195069906028980090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_28
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 799
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65e6f156a9e9c5f0800000000000000
+      internalID: -735800163549387414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_29
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 843
+        width: 73
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307ef4cad7d522e00800000000000000
+      internalID: 1018479260082366211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 675
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801bc50523cfc1eb0800000000000000
+      internalID: -4747642614128529144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_31
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 730
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a2f221530b1f4e0800000000000000
+      internalID: -1949583421689877962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_32
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 709
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cbc1181dc99ea20800000000000000
+      internalID: 3092175042794798229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_33
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 678
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd93b2154da936e0800000000000000
+      internalID: -1857262859135509005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_34
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 736
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b72090edeb42f80800000000000000
+      internalID: -8132165166281098392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_35
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 708
+        width: 165
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4509e936c9549770800000000000000
+      internalID: 8616610694976570702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_36
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 706
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd7e44a82b954990800000000000000
+      internalID: -7402339813655937550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_37
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 646
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfd963d8544164f0800000000000000
+      internalID: -837312907419459646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_38
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 524
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d5c1b934bd90580800000000000000
+      internalID: -8860309708463121039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_39
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 551
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46aa42f2ffff7120800000000000000
+      internalID: 2413929344206022221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_40
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 560
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fb1ae4a4a4d4d60800000000000000
+      internalID: 7876033006348123932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 575
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009b0cb241f833a40800000000000000
+      internalID: 5346774499415079168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_42
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 494
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8f0428962a89640800000000000000
+      internalID: 5086994353155537063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_43
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 505
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33881b408ed0f7e10800000000000000
+      internalID: 2197490433342408755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 491
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8857fec4487c2d870800000000000000
+      internalID: 8706240400700962184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_45
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 487
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cfca5255a29f4e0800000000000000
+      internalID: -1947478818668348411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_47
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 295
+        width: 108
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2179260fe4702e0d0800000000000000
+      internalID: -3395143133462096110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Europe_48
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 265
+        width: 73
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaac7e22613979620800000000000000
+      internalID: 2780853018208750254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

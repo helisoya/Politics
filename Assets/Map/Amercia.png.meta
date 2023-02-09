@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: e653c683dcb39ee46afa62d53ae50402
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8124723454083524918
+    second: Amercia_0
+  - first:
+      213: -6322020834504406132
+    second: Amercia_13
+  - first:
+      213: -6378139094245120356
+    second: Amercia_15
+  - first:
+      213: -1823737580786817321
+    second: Amercia_18
+  - first:
+      213: -9196129364790266702
+    second: Amercia_20
+  - first:
+      213: -1513628472394266274
+    second: Amercia_23
+  - first:
+      213: -8922014920459428859
+    second: Amercia_24
+  - first:
+      213: 4378429330447566966
+    second: Amercia_25
+  - first:
+      213: -2704510810855688727
+    second: Amercia_26
+  - first:
+      213: 4354993955419398761
+    second: Amercia_27
+  - first:
+      213: 9169394130811678214
+    second: Amercia_28
+  - first:
+      213: -395649893262207963
+    second: Amercia_29
+  - first:
+      213: -6518912935495152335
+    second: Amercia_30
+  - first:
+      213: -7696875237974491264
+    second: Amercia_31
+  - first:
+      213: -2342128920585985885
+    second: Amercia_32
+  - first:
+      213: -6185885619077028828
+    second: Amercia_33
+  - first:
+      213: 8668084799569443003
+    second: Amercia_34
+  - first:
+      213: 6646838749805908664
+    second: Amercia_35
+  - first:
+      213: 8817957900797925035
+    second: Amercia_36
+  - first:
+      213: -8160627552247398898
+    second: Amercia_37
+  - first:
+      213: 3420979600015439683
+    second: Amercia_38
+  - first:
+      213: 2686016103416963868
+    second: Amercia_39
+  - first:
+      213: 8731107656546873490
+    second: Amercia_40
+  - first:
+      213: -5572843864353750617
+    second: Amercia_41
+  - first:
+      213: 2159255093195075080
+    second: Amercia_42
+  - first:
+      213: 7468149328901737224
+    second: Amercia_43
+  - first:
+      213: 7314734974962511368
+    second: Amercia_44
+  - first:
+      213: -3974729666097841618
+    second: Amercia_45
+  - first:
+      213: 1486218902958142605
+    second: Amercia_46
+  - first:
+      213: -732860719147080454
+    second: Amercia_47
+  - first:
+      213: 1490307013024051136
+    second: Amercia_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amercia_0
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 2974
+        width: 491
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639eee25fe0d0c070800000000000000
+      internalID: 8124723454083524918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_13
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 2582
+        width: 792
+        height: 763
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b0fb8eb8ba348a0800000000000000
+      internalID: -6322020834504406132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2107
+        width: 944
+        height: 762
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96ec7f594c4c77a0800000000000000
+      internalID: -6378139094245120356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_18
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2140
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6eba53558c0b6e0800000000000000
+      internalID: -1823737580786817321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_20
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2109
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4332fd019c06080800000000000000
+      internalID: -9196129364790266702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_23
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2077
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59c5058ce28efae0800000000000000
+      internalID: -1513628472394266274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_24
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1962
+        width: 99
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cd74163b2ae2480800000000000000
+      internalID: -8922014920459428859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_25
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1976
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6788a73374e43cc30800000000000000
+      internalID: 4378429330447566966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_26
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1921
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e53eb32fb5a77ad0800000000000000
+      internalID: -2704510810855688727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_27
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1853
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9622fbfbdeb007c30800000000000000
+      internalID: 4354993955419398761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_28
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1661
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ee494616b304f70800000000000000
+      internalID: 9169394130811678214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_29
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1592
+        width: 274
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5245fa0b48e528af0800000000000000
+      internalID: -395649893262207963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_30
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1580
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dcc1e493b2885a0800000000000000
+      internalID: -6518912935495152335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_31
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1580
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fb70830c43f2590800000000000000
+      internalID: -7696875237974491264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_32
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1553
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0ad46e7261f7fd0800000000000000
+      internalID: -2342128920585985885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_33
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1508
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42467bdbdc1572aa0800000000000000
+      internalID: -6185885619077028828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_34
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1469
+        width: 126
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8bc4123393b4870800000000000000
+      internalID: 8668084799569443003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_35
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1416
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b29b7160a05e3c50800000000000000
+      internalID: 6646838749805908664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_36
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1059
+        width: 352
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6d861cdfdaf5a70800000000000000
+      internalID: 8817957900797925035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_37
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1380
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e37046a70afbe80800000000000000
+      internalID: -8160627552247398898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_38
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1263
+        width: 112
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34737c232d2c97f20800000000000000
+      internalID: 3420979600015439683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_39
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1292
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13a5293a65a64520800000000000000
+      internalID: 2686016103416963868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_40
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1272
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2907b2c77202b2970800000000000000
+      internalID: 8731107656546873490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_41
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 972
+        width: 114
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1ca74180849a2b0800000000000000
+      internalID: -5572843864353750617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_42
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1128
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e6859211737fd10800000000000000
+      internalID: 2159255093195075080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_43
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1018
+        width: 109
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b82c62f3234a760800000000000000
+      internalID: 7468149328901737224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_44
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 929
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e24c064b8238560800000000000000
+      internalID: 7314734974962511368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_45
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 713
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2af70e7d6ce6d8c0800000000000000
+      internalID: -3974729666097841618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_46
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 344
+        width: 180
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d847a49c73c10a410800000000000000
+      internalID: 1486218902958142605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amercia_47
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 225
+        width: 81
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4a66d0f0b54d5f0800000000000000
+      internalID: -732860719147080454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

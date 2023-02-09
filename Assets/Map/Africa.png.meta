@@ -1,0 +1,1332 @@
+fileFormatVersion: 2
+guid: 1d67b182112748f4c8c578591b56f9a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1739111162627709365
+    second: Africa_0
+  - first:
+      213: -6433054952432492875
+    second: Africa_1
+  - first:
+      213: 6484236345569049305
+    second: Africa_2
+  - first:
+      213: -660357426603555952
+    second: Africa_3
+  - first:
+      213: 4837937964706485525
+    second: Africa_4
+  - first:
+      213: -5546315010071947368
+    second: Africa_5
+  - first:
+      213: -5302682125393993831
+    second: Africa_6
+  - first:
+      213: -8403341398618975186
+    second: Africa_7
+  - first:
+      213: -1044134463075661980
+    second: Africa_8
+  - first:
+      213: -7867907103805069713
+    second: Africa_9
+  - first:
+      213: -3540771946507001255
+    second: Africa_10
+  - first:
+      213: 1737376862464184494
+    second: Africa_11
+  - first:
+      213: 438296458118796131
+    second: Africa_12
+  - first:
+      213: -3084877935525717746
+    second: Africa_13
+  - first:
+      213: -6043997082796591803
+    second: Africa_14
+  - first:
+      213: -7924381919704758282
+    second: Africa_15
+  - first:
+      213: -2149470976753769097
+    second: Africa_16
+  - first:
+      213: 8748372994522104776
+    second: Africa_17
+  - first:
+      213: 8302761798424618258
+    second: Africa_18
+  - first:
+      213: -6168652664975567348
+    second: Africa_19
+  - first:
+      213: -4334156507141628151
+    second: Africa_20
+  - first:
+      213: -9004824561946531271
+    second: Africa_21
+  - first:
+      213: 7110224853510673425
+    second: Africa_22
+  - first:
+      213: 3442730894069679717
+    second: Africa_23
+  - first:
+      213: 997825904138287892
+    second: Africa_24
+  - first:
+      213: 7261551193037415157
+    second: Africa_25
+  - first:
+      213: 2026766501965403830
+    second: Africa_26
+  - first:
+      213: 5487964506902542046
+    second: Africa_27
+  - first:
+      213: -6859134621571192850
+    second: Africa_28
+  - first:
+      213: 1742874690923897974
+    second: Africa_29
+  - first:
+      213: 2652416073423210385
+    second: Africa_30
+  - first:
+      213: -237645595601142311
+    second: Africa_31
+  - first:
+      213: -7339786796673334752
+    second: Africa_32
+  - first:
+      213: 1162999386644759850
+    second: Africa_33
+  - first:
+      213: 5807964776564958257
+    second: Africa_34
+  - first:
+      213: -93321738725636833
+    second: Africa_35
+  - first:
+      213: -9149006272100004388
+    second: Africa_36
+  - first:
+      213: -7522013064411937022
+    second: Africa_37
+  - first:
+      213: -4617273474973145346
+    second: Africa_38
+  - first:
+      213: 6334875154424768353
+    second: Africa_39
+  - first:
+      213: 1798987528893967922
+    second: Africa_40
+  - first:
+      213: 8874379014152493259
+    second: Africa_41
+  - first:
+      213: -2186165583857572218
+    second: Africa_42
+  - first:
+      213: 9140650882917991199
+    second: Africa_43
+  - first:
+      213: -8650845495406595081
+    second: Africa_44
+  - first:
+      213: -3321363072131618176
+    second: Africa_45
+  - first:
+      213: -2861051359237042880
+    second: Africa_46
+  - first:
+      213: -1545283845964932066
+    second: Africa_47
+  - first:
+      213: -7794483104828753956
+    second: Africa_48
+  - first:
+      213: 3594235031719890207
+    second: Africa_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Africa_0
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2164
+        width: 110
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b957516360922810800000000000000
+      internalID: 1739111162627709365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_1
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2127
+        width: 185
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be91b3ca9239b6a0800000000000000
+      internalID: -6433054952432492875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_2
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2127
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daf151f992acf950800000000000000
+      internalID: 6484236345569049305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_3
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 2135
+        width: 147
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09301825b60f5d6f0800000000000000
+      internalID: -660357426603555952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_4
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 2125
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515d4b742fec32340800000000000000
+      internalID: 4837937964706485525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_5
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2080
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8979e3c42e78703b0800000000000000
+      internalID: -5546315010071947368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_6
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1948
+        width: 149
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fd317a3b61966b0800000000000000
+      internalID: -5302682125393993831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_7
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1996
+        width: 147
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e245bf05585516b80800000000000000
+      internalID: -8403341398618975186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_8
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1967
+        width: 100
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467c1a6ec3d7281f0800000000000000
+      internalID: -1044134463075661980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_9
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1967
+        width: 152
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f662defcc249fc290800000000000000
+      internalID: -7867907103805069713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1942
+        width: 111
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95228c9aca6acdec0800000000000000
+      internalID: -3540771946507001255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_11
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1875
+        width: 108
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea019282d076c1810800000000000000
+      internalID: 1737376862464184494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_12
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1875
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3639b747e44251600800000000000000
+      internalID: 438296458118796131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_13
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1875
+        width: 122
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e099c8dacdf4035d0800000000000000
+      internalID: -3084877935525717746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_14
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1875
+        width: 110
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5457968fca86f1ca0800000000000000
+      internalID: -6043997082796591803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_15
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1873
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7487311a0f60290800000000000000
+      internalID: -7924381919704758282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_16
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1909
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7756497f88b8b22e0800000000000000
+      internalID: -2149470976753769097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_17
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1890
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c34c1d33e6786970800000000000000
+      internalID: 8748372994522104776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_18
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1882
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21568c1add5593370800000000000000
+      internalID: 8302761798424618258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_19
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1878
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c065d59851b846aa0800000000000000
+      internalID: -6168652664975567348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_20
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1904
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f10eebe9bf9d3c0800000000000000
+      internalID: -4334156507141628151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_21
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1813
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ae67045cf680380800000000000000
+      internalID: -9004824561946531271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_22
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1832
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11458aa25d79ca260800000000000000
+      internalID: 7110224853510673425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_23
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1799
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566494ef18907cf20800000000000000
+      internalID: 3442730894069679717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_24
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1813
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b78d38f5df8dd00800000000000000
+      internalID: 997825904138287892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_25
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1847
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f22f43365636c460800000000000000
+      internalID: 7261551193037415157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_26
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1690
+        width: 174
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b61f403565802c10800000000000000
+      internalID: 2026766501965403830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_27
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1772
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6b0ed74aa292c40800000000000000
+      internalID: 5487964506902542046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_28
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1763
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee76aa627657fc0a0800000000000000
+      internalID: -6859134621571192850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_29
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1817
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674a9881c4fef2810800000000000000
+      internalID: 1742874690923897974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_30
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1748
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1974dec9d564fc420800000000000000
+      internalID: 2652416073423210385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_31
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1781
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddf1c30796b3bcf0800000000000000
+      internalID: -237645595601142311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_32
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1765
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0220f29dbc6d32a90800000000000000
+      internalID: -7339786796673334752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_33
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1755
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2545f2c7cdc32010800000000000000
+      internalID: 1162999386644759850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_34
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1741
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134a22f31390a9050800000000000000
+      internalID: 5807964776564958257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_35
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1781
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15cf618f5474bef0800000000000000
+      internalID: -93321738725636833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_36
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1743
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd88afd443380180800000000000000
+      internalID: -9149006272100004388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_37
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1656
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20701e3a8f07c9790800000000000000
+      internalID: -7522013064411937022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_38
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1546
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef66465ec362cefb0800000000000000
+      internalID: -4617273474973145346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_39
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1580
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167afeba36ff9e750800000000000000
+      internalID: 6334875154424768353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_40
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1566
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e251740a947f810800000000000000
+      internalID: 1798987528893967922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_41
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1483
+        width: 100
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc89db4e1b0282b70800000000000000
+      internalID: 8874379014152493259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_42
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1558
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6862cf9fbfd29a1e0800000000000000
+      internalID: -2186165583857572218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_43
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1409
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13003c7c8d1ade70800000000000000
+      internalID: 9140650882917991199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_44
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1440
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f370872bd502f780800000000000000
+      internalID: -8650845495406595081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_45
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1495
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aae7b12e528e1d0800000000000000
+      internalID: -3321363072131618176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_46
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1459
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d078082f08b48d0800000000000000
+      internalID: -2861051359237042880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_47
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1419
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c5c14878c0e8ae0800000000000000
+      internalID: -1545283845964932066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_48
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1260
+        width: 151
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7f5e0c9ee64d390800000000000000
+      internalID: -7794483104828753956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Africa_49
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1375
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dcde0e7b941e130800000000000000
+      internalID: 3594235031719890207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
